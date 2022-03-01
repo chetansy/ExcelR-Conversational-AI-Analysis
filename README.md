@@ -21,13 +21,13 @@ Above Objectives Can Be Accomplished By Performing
 * Exploratory Analysis on Structured Data
 * Topic Mining on Unstructured Data
 
-### OVERVIEW OF DATA SET
+### Overview Of Data Set
 * 91 Days Conversational Data 
 * File Format - Text Files (91)
 * Data is in Semi Structured Format
 * Including Conversation Transcripts Between Visitor and ExcelR Chatbot
 
-### ACTIONABLES
+### Actionables
 1. Parser
 2. Exploratory Data Analysis
 3. Topic Mining
